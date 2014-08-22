@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+	<ul class=characters>
+		{% for char in characters %}
+			<li><p>{{ char.character_name }}</p>
+		{% else %}
+			<p>No characters exist yet. Make one?</p>
+		{% endfor %}
+	</ul>
+{% endblock %}

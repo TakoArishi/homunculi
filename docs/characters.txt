@@ -1,0 +1,17 @@
+A Legend of the Wulin character has the following stats:
+
+* A name
+* A player name
+* An archetype (Warrior, Courtesan, Priest, Scholar)
+* A rank
+* An amount of Destiny (total and free)
+* An amount of entanglement
+* A group of skills (awareness, confidence, crafting, finesse, hardiness, inspire, learning, medicine, might, perform, politics, ride, stealth, survival, tactics, wu wei)
+* An amount of Chivalrous and Malicious Joss
+* An amount of chi (General, wood, fire,e arth, water, metal, enlightened, and corrupt), as well as their cultivation values
+* A maximum amount of chi aura and the chi replenishment rate
+* A list of external styles and their values (speed, footwork, strike, block, damage, and toughness), both basic and modified
+* A list of internal styles and the abilities selected.
+* A list of armors and weapons available to the player.
+* A list of upgrades selected by the user via Destiny or Entanglement. (By name and cost)
+* A Chi Threshold (Both Armored and Unarmored, and containing Trivial, Minor, and Major)
